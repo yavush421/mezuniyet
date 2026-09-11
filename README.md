@@ -1,0 +1,2 @@
+# mezuniyet
+son github projesi
